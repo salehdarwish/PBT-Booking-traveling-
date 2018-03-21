@@ -132,8 +132,18 @@ window.onload=function(){
     }
     */
     
-    /*Booking*/ 
- 
+    /*Booking*/
+    var button = document.getElementById('result');
+   
+    button.onclick = function result(){
+        $('#photo').css('display','none')
+        $('.img').css('display' , 'inline');
+        $('.subgate').animate({
+            width:'68%',
+         
+     })
+     
+ }
     
     
 }
