@@ -1,0 +1,58 @@
+﻿@model SW_project.Models.BookingViewModel
+
+@using (Html.BeginForm("Index", "Booking"))
+{
+     <div class="taps">
+          @Html.TextBox("CountryFrom", null,
+                              new
+                              {
+                                   @autocomplete = "off",
+                                   @class = "Country",
+                                   @id = "CountryFrom",
+                                   @placeholder = "Country From.."
+                              })
+          <span style="color:#e67712;">
+               @Model.CountryFromErrorMessage
+          </span>
+     </div>
+                              <div class="taps">
+                                   @Html.TextBox("CityFrom", null,
+                                   new
+                                   {
+                                        @autocomplete = "off",
+                                        @class = "City",
+                                        @id = "CityFrom",
+                                        @placeholder = "City From.."
+                                   })
+                                   <span style="color:#e67712">
+                                        @Model.CityFromErrorMessage
+                                   </span>
+                              </div>
+                              <div class="taps">
+                                   @Html.TextBox("CountryTo", null,
+                                   new
+                                   {
+                                        @autocomplete = "off",
+                                        @class = "Country",
+                                        @id = "CountryTo",
+                                        @placeholder = "Country To.."
+                                   })
+                                   <span style="color:#e67712">
+                                        @Model.CountryToErrorMessage
+                                   </span>
+                              </div>
+                              <div class="taps">
+                                   @Html.TextBox("CityTo", null,
+                                   new
+                                   {
+                                        @autocomplete = "off",
+                                        @class = "City",
+                                        @id = "CityTo",
+                                        @placeholder = "City To.."
+                                   })
+                                   <span style="color:#e67712;">
+                                        @Model.CityToErrorMessage
+                                   </span>
+                              </div>
+                              <button id="result" type="submit">Submit</button>
+}
