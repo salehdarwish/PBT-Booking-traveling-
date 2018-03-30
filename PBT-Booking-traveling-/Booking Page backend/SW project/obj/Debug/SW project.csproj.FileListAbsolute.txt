@@ -1,0 +1,52 @@
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\SW project.dll.config
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\SW project.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\SW project.pdb
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\EntityFramework.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\EntityFramework.SqlServer.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Helpers.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Mvc.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Razor.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.Razor.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\EntityFramework.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\EntityFramework.SqlServer.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Razor.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Webpages.Razor.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Helpers.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\bin\System.Web.Mvc.xml
+C:\Users\mOsTaFa\Desktop\New folder\SW project\obj\Debug\SW project.csproj.CoreCompileInputs.cache
+C:\Users\mOsTaFa\Desktop\New folder\SW project\obj\Debug\SW project.dll
+C:\Users\mOsTaFa\Desktop\New folder\SW project\obj\Debug\SW project.pdb
+C:\Users\mOsTaFa\Desktop\New folder\SW project\obj\Debug\SW project.csprojResolveAssemblyReference.cache
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\SW project.dll.config
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\SW project.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\SW project.pdb
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\EntityFramework.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\EntityFramework.SqlServer.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\Microsoft.Web.Infrastructure.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Helpers.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Mvc.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Razor.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.Deployment.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.Razor.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\EntityFramework.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\EntityFramework.SqlServer.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Razor.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.Deployment.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Webpages.Razor.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Helpers.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\bin\System.Web.Mvc.xml
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\obj\Debug\SW project.csproj.CoreCompileInputs.cache
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\obj\Debug\SW project.dll
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\obj\Debug\SW project.pdb
+D:\FCI\3.2\software engineering\Project\SW Project\SW project\obj\Debug\SW project.csprojResolveAssemblyReference.cache
