@@ -1,0 +1,81 @@
+/* the start of the form */
+*{
+    box-sizing: content-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/19921227163_05d622c1bb_o.jpg);
+    width: 200px;
+    height:450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    background-clip: border-box;
+}
+body .page{
+    margin:100px 400px;
+    background-color: #433434;
+    width: 600px;
+    height:450px;
+    border-style: inset;
+    border-width: 50px 0 0 5px;
+    border-color: darkred;
+    border-top-right-radius:  30px;
+    border-bottom-left-radius:  30px;
+    text-align: center;
+    
+}
+body .page .span{
+    margin-left: 170px;
+    padding: 0;
+    color: white;
+}
+body .page .images{
+    float: right;
+    width: 50%;
+}
+body .page .images img{
+    margin-top: 30px;
+    float: right;
+    clear: both;
+    padding: 10px;
+    width: 150px;
+    height: 90px;
+    border-radius: 30px;
+}
+body .page .images img:hover{
+    width: 70%;
+    height: 25%;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    transition: all 2s ease ;
+}
+body .page .form{
+    float: right;
+    width: 50%;
+}
+
+body .page .form input{
+    margin-top: 10px;
+    float: left;
+    padding: 10px;
+}
+body .page .form .clear{
+    clear: both;
+}
+body .page .form .next{
+    margin-top: 150px;
+    background-color: #520606;
+    width: 94%;
+    height: 20px;
+    justify-content: flex-end;
+    border: 1px solid #520606;
+    color: white;
+    padding: 15px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+/* the end of the form */
