@@ -1,5 +1,5 @@
 window.onload=function(){
-/*    var note = document.getElementById('notebad');
+   var note = document.getElementById('notebad');
     var width = 500;
     var left=400;
     var setminus , setplus ,setwrite,setpause ;
@@ -45,7 +45,7 @@ window.onload=function(){
     }
     
     // Booking ----------
-    /*
+
             var shape = document.getElementById('shape');
             var shape2=document.getElementById('shape2');
             var TD=document.getElementById('TD');
@@ -130,7 +130,7 @@ window.onload=function(){
             
          
     }
-    */
+ 
     
     /*Booking*/
     var button = document.getElementById('result');
